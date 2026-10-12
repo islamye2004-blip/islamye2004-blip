@@ -50,26 +50,11 @@ Check out my repositories for projects involving web development, programming, d
 
 ### 🤝 Let's Connect
 
-* 💼 LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
-* 🌐 Portfolio: [Your Portfolio URL](YOUR_PORTFOLIO_URL)
-* 📧 Email: YOUR_EMAIL
+* 💼 LinkedIn: https://www.linkedin.com/in/islam-khalifa-188b192b4/
+* 📧 Email: islamye2004@gmail.com
 
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
-## Hi there 👋
 
-<!--
-**islamye2004-blip/islamye2004-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
